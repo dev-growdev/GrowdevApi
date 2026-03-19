@@ -16,7 +16,7 @@
   <Folder Name="/tests/">
     <Project Path="tests/Integracao.Test/Integracao.Test.csproj" Id="f39fb38e-3395-47ac-ba6c-5157986a7cb1" />
     <Project Path="tests/TestUtil/TestUtil.csproj" Id="3334ceb5-f1ef-48c0-8fec-92c36f100f24" />
-    <Project Path="tests/UnidadeCaosoDeUso.Test/UnidadeCasosDeUso.Test.csproj" Id="9e34df87-81b6-4caf-afd8-0efb046c97d9" />
+    <Project Path="tests/UnidadeCasosDeUso.Test/UnidadeCasosDeUso.Test.csproj" Id="9e34df87-81b6-4caf-afd8-0efb046c97d9" />
     <Project Path="tests/UnidadeValidadores.Test/UnidadeValidadores.Test.csproj" Id="5d1f1329-3324-437c-8db5-ff10e6a5c1db" />
   </Folder>
 </Solution>
